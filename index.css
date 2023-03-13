@@ -1,0 +1,33 @@
+body{
+background-image:url("1-blue-viper-closeup-dec32021-1.jpg")
+}
+
+h1{
+  text-align: center;
+  margin-top: 10%;
+  background-color: coral;
+  padding: 10%;
+  margin-top: 3%;
+
+}
+
+ p{
+  padding: 10%;
+  border:10%;
+  background-color: chartreuse;
+  margin-top: 3%;
+ }
+ 
+ a{
+  background-color: aqua;
+  border-style:dotted;
+  text-align: center;
+  margin-top: 3%;
+ }
+
+li{
+text-align: center;
+margin-top: 10%;
+background-color:gold;
+padding: 3%;
+}

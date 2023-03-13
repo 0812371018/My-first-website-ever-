@@ -1,0 +1,33 @@
+body{
+  background-image:url("p11125105bv13aa.jpg");
+}
+
+h1{
+  text-align: center;
+  margin-top: 10%;
+  background-color:white;
+  padding: 10%;
+  margin-bottom: 6%;
+
+}
+
+p{
+  padding: 7%;
+  border: 5%;
+  background-color: chartreuse;
+  margin-top: 3%;
+}
+
+a{
+  background-color: orangered;
+  border-style: dotted;
+  text-align: center;
+  margin-top: 3%;
+}
+
+li{
+  text-align: center;
+  margin-top: 10%;
+  background-color: aqua;
+  padding: 10%;
+}

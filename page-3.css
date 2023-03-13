@@ -1,0 +1,32 @@
+body{
+  background-image:url("515dbq5af2l.jpg");
+}
+
+h1{
+  text-align: center;
+  margin-top: 10%;
+  background-color: white;
+  padding: 8%;
+  margin-bottom: 8%;
+}
+
+p{
+  padding: 4%;
+  border: 3%;
+  background-color: white;
+  margin-top: 3%;
+}
+
+a{
+  background-color:lightgrey;
+  border-style: dotted;
+  text-align: center;
+  margin-top: 6%;
+}
+
+li{
+  text-align: center;
+  margin-top: 5%;
+  background-color: white;
+  padding: 6%;
+}
